@@ -1,5 +1,5 @@
 👋 Hi, I’m @StuartDoty, a Data Scientist with a lifelong love of numbers, graphs, maps and puzzles.  
-I have a thirst for knowledge and am here to explore the world around us through data visualization and analysis.
+I have a thirst for knowledge and am here to explore the world around us through data visualization, analysis and algorithm design.  
 I am looking for new ways to help solve the greatest challenge of our day, global climate change.
 
 <!---
